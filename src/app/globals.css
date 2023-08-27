@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+            /* IMAGE01 */
+.image {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/hp.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.image:hover {
+    background-image: url('../../public/images/hpH.png');
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+            /* IMAGE02 */
+.image2 {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/hp2.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.image2:hover {
+    background-image: url('../../public/images/hpH2.png');
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+            /* IMAGE03 */
+.image3 {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/lp.png');
+    background-position: center;
+    background-size: cover;
+}
+.image3:hover {
+    background-image: url('../../public/images/lpH.png');
+    background-position: center;
+    background-size: cover;
+}
+            /* IMAGE04 */
+.image4 {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/lp2.png');
+    background-position: center;
+    background-size: cover;
+}
+.image4:hover {
+    background-image: url('../../public/images/lp2H.png');
+    background-position: center;
+    background-size: cover;
+}
+            /* IMAGE05 */
+.image5 {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/sm.png');
+    background-position: center;
+    background-size: cover;
+}
+.image5:hover {
+    background-image: url('../../public/images/smH.png');
+    background-position: center;
+    background-size: cover;
+}
+            /* IMAGE06 */
+.image6 {
+    width: 310px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/SM2.png');
+    background-position: center;
+    background-size: cover;
+}
+.image6:hover {
+    background-image: url('../../public/images/sM2H.png');
+    background-position: center;
+    background-size: cover;
+}
+            /* IMAGE07 */
+.image7 {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/oc.png');
+    background-position: center;
+    background-size: cover;
+}
+.image7:hover {
+    background-image: url('../../public/images/ocH.png');
+    background-position: center;
+    background-size: cover;
+}
+        /* IMAGES08 */
+.image8 {
+    width: 300px;
+    height:270px;
+    border-radius: 30px;
+    background-image: url('../../public/images/ep.png');
+    background-position: center;
+    background-size: cover;
+}
+.image8:hover {
+    background-image: url('../../public/images/epH.png');
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
